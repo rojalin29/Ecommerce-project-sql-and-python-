@@ -17,8 +17,7 @@ The project analyzes an e-commerce dataset, covering customer orders, products, 
 2. 2017 Orders: 45101 orders were placed in 2017.
 3. Sales by Category: The highest-selling category is [insert category] with total sales of ₹[insert amount].
 4. Installment Payments: 99.98% of orders were paid in installments.
-5. Top States by Customers: [Insert state] has the highest number of customers with [insert count] customers.
+5. Top States by Customers: Sao Paulo has the highest number of customers with [insert count] customers.
 6. Monthly Trends (2018): Peak orders occurred in January.
 7. Price vs. Purchases: There is a no correlation between product price and the number of purchases.
-8. Top Sellers: The highest revenue-generating seller is [insert seller] with ₹[insert amount] revenue.
-9. Retention Rate: The customer retention rate is none.
+8. Retention Rate: The customer retention rate is none.

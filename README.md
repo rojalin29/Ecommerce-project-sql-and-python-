@@ -8,6 +8,17 @@ The project analyzes an e-commerce dataset, covering customer orders, products, 
 - SQL: Data querying and manipulation.
 - Python: Data analysis and visualization.
 - Jupyter Notebook: Interactive coding environment.
-- Libraries Used: - pandas (data manipulation)
-                  - matplotlib and seaborn (visualization)
-                  - numpy (numerical calculations)
+- Libraries Used:
+1. pandas (data manipulation)
+2. matplotlib and seaborn (visualization)
+3. numpy (numerical calculations)
+# Key Insights
+1. Customer Locations: Customers are distributed across [insert number] unique cities.
+2. 2017 Orders: 45101 orders were placed in 2017.
+3. Sales by Category: The highest-selling category is [insert category] with total sales of ₹[insert amount].
+4. Installment Payments: 99.98% of orders were paid in installments.
+5. Top States by Customers: [Insert state] has the highest number of customers with [insert count] customers.
+6. Monthly Trends (2018): Peak orders occurred in January.
+7. Price vs. Purchases: There is a no correlation between product price and the number of purchases.
+8. Top Sellers: The highest revenue-generating seller is [insert seller] with ₹[insert amount] revenue.
+9. Retention Rate: The customer retention rate is none.

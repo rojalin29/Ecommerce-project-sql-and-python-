@@ -13,11 +13,11 @@ The project analyzes an e-commerce dataset, covering customer orders, products, 
 2. matplotlib and seaborn (visualization)
 3. numpy (numerical calculations)
 # Key Insights
-1. Customer Locations: Customers are distributed across [insert number] unique cities.
+1. Customer Locations: Customers are distributed across 4119 unique cities.
 2. 2017 Orders: 45101 orders were placed in 2017.
-3. Sales by Category: The highest-selling category is [insert category] with total sales of ₹[insert amount].
+3. Sales by Category: The highest-selling category is BED TABLE BATH with total sales of 1712553.67.
 4. Installment Payments: 99.98% of orders were paid in installments.
-5. Top States by Customers: Sao Paulo has the highest number of customers with [insert count] customers.
+5. Top States by Customers: Sao Paulo has the highest number of customers with 41000 customers.
 6. Monthly Trends (2018): Peak orders occurred in January.
 7. Price vs. Purchases: There is a no correlation between product price and the number of purchases.
 8. Retention Rate: The customer retention rate is none.
